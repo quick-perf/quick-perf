@@ -25,7 +25,7 @@
  </tr>
  <tr>
     <td align="center"><h3><a href="https://github.com/quick-perf/quickperf-examples">Examples</a></h3></td>
-    <td align="center"><h3><a href="https://github.com/quick-perf/maven-test-bench">Maven performance</a></h3></td>
+    <td align="center"><h3><a href="https://github.com/quick-perf/maven-test-bench">Maven<br />performance</a></h3></td>
     <td align="center"><a href="https://www.youtube.com/playlist?list=PLyRtZQwOxA6ekhEr2H2nNV42ZLD8OkPEx">:tv:</a></td>
  </tr>
 </table>
