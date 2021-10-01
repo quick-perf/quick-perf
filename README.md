@@ -30,4 +30,4 @@
 </table>
 </div>
 
-:rocket: ***New QuickPerf project for Spring Boot applications! [QuickPerf Live](https://github.com/quick-perf/quickperf-live)***
+:rocket: ***New QuickPerf project for Spring Boot applications! [QuickPerf Live](https://github.com/quick-perf/quickperf-live#quickperf-live)***
