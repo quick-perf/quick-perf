@@ -4,7 +4,7 @@
 <img src="https://pbs.twimg.com/profile_banners/926219963333038086/1518645789" alt="QuickPerf"/>
 </div><br>
 
-><h3>Open source projects for Java to quickly evaluate and improve performance-related properties</h3>
+><h3>Java Open source projects to quickly evaluate and improve performance-related properties</h3>
 
 <div align="center">
     <img alt="@QuickPerf" src="https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fquickperf">
