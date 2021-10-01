@@ -6,6 +6,9 @@
 
 ><h3>Open source projects for Java to quickly evaluate and improve some performance-related properties</h3>
 
+:rocket: ***New QuickPerf project for Spring Boot applications! [QuickPerf Live](https://github.com/quick-perf/quickperf-live#quickperf-live)***
+
+
 <div align="center">
  <strong><a href="https://quickperf.io">quickperf.io</a></strong>
 </div>
@@ -29,5 +32,3 @@
  </tr>
 </table>
 </div>
-
-:rocket: ***New QuickPerf project for Spring Boot applications! [QuickPerf Live](https://github.com/quick-perf/quickperf-live#quickperf-live)***
