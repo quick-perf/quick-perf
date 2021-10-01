@@ -4,7 +4,7 @@
 <img src="https://pbs.twimg.com/profile_banners/926219963333038086/1518645789" alt="QuickPerf"/>
 </div><br>
 
-><h3>QuickPerf is a testing library for Java to quickly evaluate and improve some performance-related properties</h3>
+><h3>Open source projects for Java to quickly evaluate and improve some performance-related properties</h3>
 
 <div align="center">
  <strong><a href="https://quickperf.io">quickperf.io</a></strong>
@@ -29,3 +29,5 @@
  </tr>
 </table>
 </div>
+
+:rocket: ***New QuickPerf project for Spring Boot applications! [QuickPerf Live](https://github.com/quick-perf/quickperf-live)***
